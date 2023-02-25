@@ -3,6 +3,7 @@
 * * * * *
 * * * * *
 * * * * *
+
 #include<bits/stdc++.h>
 using manespace std;
 void print1(int n) {
@@ -16,7 +17,11 @@ void print1(int n) {
         }
     }
 int main(){
+        int t;
+        cin >> t;
+        for(int i=0; i<t;i++{
         int n;
         cin >> n;
         print1(n);
+        }
 }
