@@ -16,7 +16,7 @@ int main(){
         for(int i=0; i<t;i++){
         int n;
         cin >> n;
-        print2(n);
+        print6(n);
         }
 Your Output: 
 1 2 3 4 5
