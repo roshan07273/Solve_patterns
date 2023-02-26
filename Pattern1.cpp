@@ -5,7 +5,7 @@
 * * * * *
 
 #include<bits/stdc++.h>
-using manespace std;
+using namespace std;
 void print1(int n) {
         
         for(int i=0;i<n;i++){
@@ -19,7 +19,7 @@ void print1(int n) {
 int main(){
         int t;
         cin >> t;
-        for(int i=0; i<t;i++{
+        for(int i=0; i<t;i++){
         int n;
         cin >> n;
         print1(n);
