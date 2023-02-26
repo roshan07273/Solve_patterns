@@ -16,7 +16,7 @@ int main(){
         for(int i=0; i<t;i++){
         int n;
         cin >> n;
-        print2(n);
+        print5(n);
         }
 Output:
 
