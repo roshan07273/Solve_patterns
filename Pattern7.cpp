@@ -21,7 +21,7 @@ int main(){
         for(int i=0; i<t;i++){
         int n;
         cin >> n;
-        print1(n);
+        print7(n);
         }
 OUTPUT:
     *
